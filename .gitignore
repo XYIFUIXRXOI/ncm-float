@@ -1,0 +1,11 @@
+# build intermediates
+build/
+
+# signing key (never commit)
+release.keystore
+
+# apksigner sidecar
+*.idsig
+
+# OS junk
+.DS_Store
